@@ -1,0 +1,12 @@
+{
+  "name": "afkbot",
+  "version": "1.0.0",
+  "description": "Ein Minecraft Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.4.0"
+  }
+}
